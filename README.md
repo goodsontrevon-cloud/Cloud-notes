@@ -31,7 +31,7 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 - Cloud computing fundamentals
 - Linux and command line basics
 - Networking basics
-- AWSw core services
+- AWS core services
 - Git and Github
 
   ## What I learned So Far
@@ -51,3 +51,9 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
   ## Day 1
   Started learning cloud fundamentals and set up my first Github repository.
   
+  ## Notes
+  - [Internet Basics]
+  (internet-basics.md)
+  - [Linus Basics] (Linus-basics.md)
+  - [AWS Basics] (linux-basics.md)
+  - [Git Basics] (git-basics.md)
