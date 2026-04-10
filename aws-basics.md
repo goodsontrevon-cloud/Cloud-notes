@@ -1,3 +1,4 @@
+[&larr; Back to Home](README.md)
 # AWS Basics
 
 ## What is AWS?
