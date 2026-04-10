@@ -40,7 +40,7 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 ---
 
 ## Notes
-- [Internet Basics](internet-basics.md)
+- [Internet Basics](Internet-basics.md)
 - [Linux Basics](Linux-basics.md)
 - [AWS Basics](aws-basics.md)
 - [Git Basics](git-basics.md)
