@@ -52,8 +52,7 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
   Started learning cloud fundamentals and set up my first Github repository.
   
   ## Notes
-  - [Internet Basics]
-  (internet-basics.md)
+  - [Internet Basics] (internet-basics.md)
   - [Linus Basics] (Linus-basics.md)
   - [AWS Basics] (linux-basics.md)
   - [Git Basics] (git-basics.md)
