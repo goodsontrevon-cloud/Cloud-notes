@@ -1,12 +1,24 @@
 # Cloud-notes
-Cloud Engineering Journey
+## Cloud Engineering Journey
+
 This repository documents my journey from zero to becoming a cloud engineer.
 
 I am learning the fundamentals of cloud computing, Linux, networking, and AWS, and using this repo to track everything I learn along the way.
 
 ---
 
-## What this repo includes
+## Table of Contents
+- [What This Repo Includes](#what-this-repo-includes)
+- [Why I Made This](#why-i-made-this)
+- [Progress Tracker](#progress-tracker)
+- [Notes](#notes)
+- [What I'm Learning](#what-im-learning)
+- [Key Concepts](#key-concepts)
+- [Learning Log](#learning-log)
+
+---
+
+## What This Repo Includes
 - Beginner-friendly notes written in my own words
 - Key cloud concepts (AWS servers, storage, networking)
 - Linux command line basics
@@ -15,7 +27,7 @@ I am learning the fundamentals of cloud computing, Linux, networking, and AWS, a
 
 ---
 
-## Why I made this
+## Why I Made This
 I created this repo to stay consistent, build a strong foundation, and publicly track my progress as I transition into cloud engineering.
 
 ---
@@ -26,12 +38,12 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 ---
 
 ## Progress
- Just getting started - more updates coming daily.
+Just getting started - more updates coming daily.
 
 ---
 
 ## Progress Tracker
-- [x] Created Github account
+- [x] Created GitHub account
 - [x] Created first repository
 - [x] Added first cloud notes
 - [x] Learned basic Linux commands
@@ -53,40 +65,27 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 - Linux and command line basics
 - Networking basics
 - AWS core services
-- Git and Github
+- Git and GitHub
 
 ---
 
-  ## What I learned So Far
+## Key Concepts
+
+### What is Cloud Computing?
+Cloud computing is using servers, storage, and services over the internet instead of owning physical hardware.
+
+### What is AWS?
+AWS (Amazon Web Services) is a cloud provider that offers services like virtual machines, storage, and databases.
+
+### What is GitHub?
+GitHub is a platform used to store code, track changes, and share projects.
 
 ---
 
-  ### What is Cloud Computing?
-  Cloud computing is using servers, storage, and services over the internet instead of owning physical hardware.
+## Learning Log
 
----
+### 📆 Day 1
+Started learning cloud fundamentals and set up my first GitHub repository.
 
-  ### What is AWS?
-  AWS (Amazon Web Services) is a cloud provider that offers services like virtual machines, storage, and databases.
-
----
-
-  ### What is github?
-  Github is a platform used to store code, track Changes, and share projects.
-
----
-
-  ## Goal
-  become a job-ready junior cloud engineer by building real projects and documenting everything I learn.
-
----
-
-  ## 📆 Day 1
-  Started learning cloud fundamentals and set up my first Github repository.
-
----
-
- ## 📆 Day 2
- Learned beginner Linux commands and added internet and Linux notes to my repository.
- created foundational notes, and completed my first structured GitHub updates.
- 
+### 📆 Day 2
+Learned beginner Linux commands and added internet and Linux notes to my repository. Created foundational notes and completed my first structured GitHub updates.
