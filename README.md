@@ -88,4 +88,5 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 
  ## 📆 Day 2
  Learned beginner Linux commands and added internet and Linux notes to my repository.
+ created foundational notes, and completed my first structured GitHub updates.
  
