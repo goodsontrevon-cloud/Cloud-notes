@@ -33,7 +33,8 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 ## Progress Tracker
 - [x] Created Github account
 - [x] Created first repository
-- [ ] Learn Linux basics
+- [x] Added first cloud notes
+- [x] Learned basic Linux commands
 - [ ] Learn AWS basics
 - [ ] Build first cloud project
 
@@ -80,8 +81,11 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 
 ---
 
-  ## Day 1
+  ## 📆 Day 1
   Started learning cloud fundamentals and set up my first Github repository.
 
- ---
+---
+
+ ## 📆 Day 2
+ Learned beginner Linux commands and added internet and Linux notes to my repository.
  
