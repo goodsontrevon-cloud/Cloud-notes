@@ -1,4 +1,4 @@
-[◀️ Back to home](README.MD)
+[◀️ Back to home](README.md)
 
 ---
 
