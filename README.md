@@ -57,7 +57,7 @@ Just getting started - more updates coming daily.
 - [Linux Basics](Linux-basics.md)
 - [AWS Basics](aws-basics.md)
 - [Git Basics](git-basics.md)
--[Day 2 Refelection](day-2-reflection.md)
+- [Day 2 Refelection](day-2-reflection.md)
 
 ---
 
