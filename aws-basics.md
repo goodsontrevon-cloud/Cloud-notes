@@ -1,8 +1,19 @@
 [&larr; Back to Home](README.md)
+
+---
+
 # AWS Basics
 
+---
+
 ## What is AWS?
-Amazon Web Service (AWS) is a cloud platform that provides computing services over the internet.
+Amazon web Services (AWS) is a cloud platform that provides computing, storage and networking services.
+
+---
+
+## Core Services I learned
+
+---
 
 ## Key Services 
 
@@ -11,5 +22,35 @@ Amazon Web Service (AWS) is a cloud platform that provides computing services ov
 - IAM &rarr; manages users and permissions
 - VPC &rarr; networking in the cloud
 
-## What I learned 
-AWS allows you to build and run applications without owning physical hardware.
+
+### S3 (Simple Storage Service)
+S3 is used to store and retrieve files in the cloud.
+
+### IAM (Identity and Access Management)
+IAM controls who can access AWS resources and what they can do.
+
+---
+
+## What I Did Today
+
+- Created an AWS account
+- Set up billing alerts
+- Created an IAM user
+- Created an S3 bucket
+- Uploaded a file
+- Enabled versioning
+
+---
+
+## What I learned
+
+- Cloud storage is scalable and accessible from anywhere
+- Security (IAM) is critical in cloud environments
+- Versioning helps track files changes
+
+---
+
+## Important Note
+
+    Always avoid using the root account for daily tasks. Use IAM users for better security.
+
