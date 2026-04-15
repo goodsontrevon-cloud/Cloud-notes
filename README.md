@@ -90,10 +90,15 @@ Started learning cloud fundamentals and created my first GitHub repository.
 
 ### 📆 Day 2
 Learned basic Linux commands, created structured notes, and improved repo navigation.
-➡️ [View Reflection](day-2-reflection.md)
+  
+  ➡️ [View Reflection](day-2-reflection.md)
 
-### 📆 Day 3  Learned Git and Github workflow, cloned my repository locally, and used git add, commit, and push to update my project.
-➡️ [View Reflection](day-3-reflection.md)
+### 📆 Day 3  
+Learned Git and Github workflow, cloned my repository locally, and used git add, commit, and push to update my project.
+  
+  ➡️ [View Reflection](day-3-reflection.md)
 
-### 📆 Day 4 Created AWS account, set up IAM user for security, and built my first cloud resource using S3 with file upload and versioning.
-➡️ [View Reflection](day-4-reflection.md)
+### 📆 Day 4 
+Created AWS account, set up IAM user for security, and built my first cloud resource using S3 with file upload and versioning.
+  
+  ➡️ [View Reflection](day-4-reflection.md)
