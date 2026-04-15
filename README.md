@@ -37,8 +37,8 @@ To build real-world cloud projects and become job-ready for a junior cloud engin
 
 ---
 
-## Progress
-Just getting started - more updates coming daily.
+## 📊📈 Progress
+ Currently progressing through my cloud engineering roadmap, building hands-on projects and documenting each step.
 
 ---
 
@@ -47,7 +47,7 @@ Just getting started - more updates coming daily.
 - [x] Created first repository
 - [x] Added first cloud notes
 - [x] Learned basic Linux commands
-- [ ] Learn AWS basics
+- [x] Learn AWS basics
 - [ ] Build first cloud project
 
 ---
@@ -58,6 +58,8 @@ Just getting started - more updates coming daily.
 - [AWS Basics](aws-basics.md)
 - [Git Basics](git-basics.md)
 - [Day 2 Refelection](day-2-reflection.md)
+- [Day 3 Refelection](day-3-reflection.md)
+- [Day 4 Refelection](day-4-reflection.md)
 
 ---
 
