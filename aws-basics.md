@@ -54,3 +54,26 @@ IAM controls who can access AWS resources and what they can do.
 
     Always avoid using the root account for daily tasks. Use IAM users for better security.
 
+---
+
+### EC2 (Virtual Servers)
+EC2 allows you tolaunch virtual machines in the cloud.
+
+---
+
+### What I Did
+
+- Launched an EC2 instance
+- Connected using SSH
+- Installed Apache web server
+- Started the service
+- Viewed my server in a browser
+- Created a custom webpage
+
+---
+
+### What I Learned
+
+- EC2 is like renting a computer in the cloud
+- Security groups control traffic (ports)
+- You can host websites on EC2
