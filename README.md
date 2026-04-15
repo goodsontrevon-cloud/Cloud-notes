@@ -86,7 +86,14 @@ GitHub is a platform used to store code, track changes, and share projects.
 ## Learning Log
 
 ### 📆 Day 1
-Started learning cloud fundamentals and set up my first GitHub repository.
+Started learning cloud fundamentals and created my first GitHub repository.
 
 ### 📆 Day 2
-Learned beginner Linux commands and added internet and Linux notes to my repository. Created foundational notes and completed my first structured GitHub updates.
+Learned basic Linux commands, created structured notes, and improved repo navigation.
+➡️ [View Reflection](day-2-reflection.md)
+
+### 📆 Day 3  Learned Git and Github workflow, cloned my repository locally, and used git add, commit, and push to update my project.
+➡️ [View Reflection](day-3-reflection.md)
+
+### 📆 Day 4 Created AWS account, set up IAM user for security, and built my first cloud resource using S3 with file upload and versioning.
+➡️ [View Reflection](day-4-reflection.md)
