@@ -87,6 +87,8 @@ Created AWS account, set up IAM user for security, and built my first cloud reso
 **Key Takeaways:**  
 EC2 is a virtual machine in the cloud that allows me to run real applications and host websites. I now understand how servers are deployed and accessed remotely.
 
+➡️ [View Reflection](day-5-reflection.md)
+
 ### 📆 Day 6 – Terraform (Infrastructure as Code)
 - Installed Terraform and verified setup
 - Created a new project (`terraform-aws-lab`)
@@ -98,6 +100,8 @@ EC2 is a virtual machine in the cloud that allows me to run real applications an
 
 **Key Takeaways:**  
 Terraform allows me to automate infrastructure using code. Instead of manually creating resources, I can define and manage everything programmatically, which is how real cloud environments are built.
+
+➡️ [View Reflection](day-6-reflection.md)
 
 ---
 
